@@ -1,0 +1,56 @@
+Week 1 
+- Attended Tut and formed a group.
+- Went through the available projects and discussed which project we will like to select
+- Finalised project 7 after a long discussion
+- Joined Jira, setup group on teams for communication 
+
+Week 2
+- We had a meeting before hand and split the user stories, had wrote our user stories 
+- In the tut we explained our project to our new member as our previous member dropped the course 
+- Assigned tasks to start of next round in the project (proposal)
+- Made UI  Designs 
+- Had difficulty to decide on the 2 novel aspects
+
+Week 3
+- We had a couple of meetings this week. In one we sat down and re-wrote the users stories based on the funconality which we decided to implment, in another meeting we finalzied our final novel functions, another one we finalized the UI designs with the flow of the system, additoanly we completed the purposal and submitted it. 
+- From next week onwards we will be working on the coding, we have taken a day to revise our progaming langauges such as react (for me as I would be focusing on the frontend part of the project)
+
+
+Week 4 
+- As we are a week away from the Demo, we have started coding, in our meeting we first discussed the interface, what all will be sent to the backend, and what the expected output will be.
+-  We also divided the tasks for sprint 1, Mian, Siqi and me are working on the frontend, while Mihir and Steven are working on the backend. 
+- Finished the login and register page for the website
+- Started working on the Account Details page.
+
+Week 5 
+- We had another meeting, to resolve the issues we had, and connected the backend with the frontend. 
+- Some issues were discovered in this process, such as the backend not returning if a registered user is a host or a customer. 
+- Finished the editing of Account Details page, one page was created just to display the account infromation, and the other page was created to allow the user to edit the infromation. 
+
+Week 6 
+- We had a meeting on Monday, and similar to sprint1 we disscussed the interface, and structure to help ease the connection between the frontend and the backend. 
+- We split the tasks for fronted and backend and started our work.
+- This week I fixed the code style for frontend, made the navigation bar a componenet instead of repating the code over and over again for each page.
+
+Week 7 
+- We held a meeting in person, and disscused the plan ahead for the coming Demo B 
+- We had a lot remaining to do, I tried implementing the currency converter using froneted only as it was initially planned, but I could not do so 
+it was too difficult so I had requested the backend to make the API call and I made the fetch call. 
+- The system started to come together, fixed a few bugs.
+
+Week 8
+- We had our demo, did well, however we couldnt resolve our booking bug, where we had multiple seat options 
+- We decided to split the sprint three tasks, I started working the freind booking and freind request our novel functions 
+- Me and the other team memeber who was implementing the relevent tasks in the backend had to discuss the logic behind it alot. 
+- Had a bug but was able to identify it really quickly where it was being caused from.
+
+Week 9 
+- Started my part for sprint 3, had alot of trouble trying to figure out how to implement one part, had to do a lot of searches
+- Fixed up some bugs from before sprints 
+- Started to prepare for the demo, helped in the ideas for the report 
+
+Week 10
+- Had a few meetings before our demo, prepared the databse for the required presentatoin in our demo 
+- Finished of the report 
+- Improved the code style in all frontend code. 
+- Demo went well.

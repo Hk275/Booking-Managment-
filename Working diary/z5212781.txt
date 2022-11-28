@@ -1,0 +1,29 @@
+working diaris 
+week1
+In this week I meet our new colleagues, and we decide to make the event mangement system. And we have our fisrt online meeting in Sunday. 
+we browser the current website like Ticket Master and brain storming, then we talk about the novel functionality that would be possible to be implemted in our application.
+At last we dived the requirment to four part and sperate to each person to wirte user stories
+week2
+on Wednesday night we held a meeting and talking about the user story.
+As there is some member exchange in our group, I become the new scrum master and we rearrange the tasks.
+week3
+on Monday we take an off-line meeting to talk about UI design.
+on Thursday we talk about the system architecture and summary what we gonna use.
+on Friday we comes out first draft of our proposal.
+and we are going to start coding.
+week4
+we start coding this week, I do a little search on matrial UI,
+and help backend debug data request between backend and frontend. 
+week5
+we finish sprint1 this week, for all the user stories. And start to do the plan for S2.
+week6
+this week we start Sprint 2, I still responsible for the data testing for the frontend and backend and some of the frontend.
+week7
+this week we keep on working on Sprint 2. and submit the retrospetive B.
+week8
+this week after the demo for sprints2, we start Sprint 3, we do the retrospetive B on Sunday and do the job division, I still responsible for the data testing for the frontend and backend and some of frontend
+week9
+this week we keep working on the Sprint 3, we meet on lab time and Sarturday, and start to write the report and plan for the final demo
+week10
+this week is the last week in this term, our group almost meet every day to debug, write report and preparing for the final demo. 
+And we finish our project at Friday, Nice job! 

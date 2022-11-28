@@ -1,0 +1,57 @@
+Working Diaries:
+
+Week1:
+- join the group "cookie", and decide to do the "event management system" project together.
+- join the Jira group and teams group.
+- have the first online meeting on Sunday, have a discussion on functions, and then divide these functions into four parts to
+write the user stories. decide the time for the next meeting together.
+
+Week2:
+- have an online meeting on Wednesday, check the user stories written by us and discuss.
+- join the new Jira group etc. since one member dropped and another joined.
+- divide UI design into four parts, everyone takes one part and starts working on it.
+
+Week3:
+- take a meeting discussing UI design on Monday.
+- on Thursday we talk about the system architecture and a summary of what we gonna use.
+- on Friday we come out with the first draft of our proposal.
+
+Week4:
+- take a meeting on Monday, write the interface(between the frontend and the backend) and datatype table on the google doc.
+- decide the database structure and create the database with Mihir on Thursday.
+- edit the create_database.py file to make it work, and write the draft of auth.py account.py and server.py on Saturday.
+- have a meeting with Mian and Suqi on Sunday, debug and complete the auth.py account.py server.py, and also write some 
+  simple manually backend tests about the auth.py account.py in auth_test.py and account_test.py, edit the create_database.py 
+  since we changed the structure of the database for convenience.
+
+Week5:
+- attend the fifth meeting on Wednesday evening to merge all work for Sprint1.
+- attending the fifth lab and the Progressive Demo A.
+- sprint1 is all finished, have a few rests this week.
+
+Week6(Flexible Week):
+- attend the sixth meeting on Monday, do the job division for Sprint2, and fix some bugs in Sprint1.
+- complete the code and backend tests of comment part and event_view part (get_homepage_list, customer_event_list, customer_past_event_list, host_event_list, host_past_event_list), and fix a bug in event_creation function on Friday and Saturday.
+- attended the seventh meeting on Sunday, and did the code and backend test of the search event part.
+
+Week7:
+- complete the code and backend tests of the recommendation part (event_based_recommedation and history_based_recommedation in view.py).
+- attend the meetings on Thursday, Saturday and Sunday, do tests and fix bugs together.
+- complete the currency_conversion part
+
+Week8:
+- attend meetings on Monday, and Tuesday, fix bugs and do tests together.
+- fix bugs (add tags update part) on booking and event_creation function with Mian on Wednesday from 21-23pm.
+- attend the meeting on Sunday for Retrospective B and sprint3
+- complete friend part in friend.py (get_others_public_profile, get_friends, send_friend_request, get_friend_requests, accept_friend_request)
+- change behaviour of search to fetch the requirement
+
+Week9:
+- fix some bug in friend.py
+- have meetings on Thursday and Saturday, do tests, fix bugs and do some drafts on the report
+- prepare for the final demo demonstration
+
+Week10:
+- have meetings on Monday, Tuesday and Wednesday, do tests, fix bugs and prepare for the final demo demonstration
+- do the final demo demonstration on Thursday, have a meeting after that, and keep writing the report
+- improve code style, fix some tiny bugs and keep writing the report on Friday.

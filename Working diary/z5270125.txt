@@ -1,0 +1,71 @@
+Week1
+
+In the first week there was a confusion with my classes and because of that, I couldn't be put into a group. I wasn't even in the class list and was
+wondering what is happening as I was enrolled in the class. 
+
+Week2
+
+Then in the second tutorial, I told my friend to check the class list again and there I was! So then I joined my new group 
+and met my teammates. We then discussed the user stories in class and also set up our repository and did jira integration. 
+We also divided work for the UI design page wise and started working on that. We then conducted our weekly meeting and decided 
+to meet the next day (Week 3) in the library face to face to discuss what we have done and progress further.
+
+Week3
+
+We divided the tasks again and had two face to face meetings which in my perspective are very productive. 
+We started wrting user stories from the scratch and also finalized our novel ideas. We also finanlized the 
+UIs and wrote abstracts for the APIs and the project as a whole. I personally worked on the user stories and also made UIs. 
+I also wrote the abstracts which gave me a good feel of the project. 
+In our meetings, we discussed the work we did and finalized the report which was submitted.
+
+Week4
+
+I personally worked on the database structure and the setting up of the database with Steven. Started on the basic structure of the server.py 
+file (flask framework). I then started working on the Event creation and edit which took a lot of time for me to do as it involved completion 
+of the database to start. One of the challenges I faced was to produce seats of which i found a way while trying various ways. I then changed the
+structure of the database on the go as i realized we can never have the final structure as whenever we code, we find one thing or the other missing in it.
+Completed the draft with some test.py(s) to go with it so that the frontend don't face any issues with the code
+
+Week5
+
+We then had another meeting in which we discussed all the work we have done for sprint 1 and then fix any issues that arose with backend and frontend
+combining their code. There were a few bugs which we fixed and then we merged our code and finalized sprint 1. We then had our tutorial in which we
+showcased our progress for the Progressive demo A. After the meeting I started working a bit on the bugs that were pointed out and also started and
+finished our work on the Retrospective A report which was later submitted.
+
+Week 6
+
+We had a meeting again to divide the work for sprint 2. I worked on the booking and cancellation part as it related to the creation of an event.
+We also fixed bugs which were occuring on the frontend and backend together so that sprint 1 things didn't have an issue later on. I then started the
+booking part as I knew it would take long but also had in mind that for sprint 2 we had 2 weeks to complete, so took it a bit easy. The booking part
+led me to change a lot of my code that I did in sprint 1 for event creation as I realized that I missed a couple of things that I needed for booking.
+Then we had a meeting to discuss our progress and test a couple of thing that we did complete.
+
+Week 7
+
+I continued working on the booking and cancellation part and added a couple more functions. I was then told by Harsh (frontend) that he needed some
+functions for fetching data, which I created. We then had a meeting again and tested out our current code and fixed some bugs. Then in the tutorial, we
+discussed our retrospective A report with the tutor, of which he asked some question which we answered well. After the tutorial, I finished my code for
+booking and cancellation and was pretty proud of the work which I did, as sprint 1 and sprint 2 ( booking, event_creation, and cancellation ) were all working together in harmony on testing.
+
+Week 8
+
+We had another meeting in the start of the week to finally merge and test all features with the frontend and backend together for sprint 2. After 
+we fixed all bugs and were satisfied, we merged. We were all ready for the progressive demo B which went smoothly too. After this, we met in the 
+end of the week for dividing of sprint 3 and solve any issue that might have occured. I started working on sprint 3.
+
+Week 9
+
+I realized the group booking with friends was very challenging and had a lot of layers behind it. The challenge I faced was that I couldn't do multiple
+group bookings happening simultaneously. Nevertheless, I found a way and did it. This sprint, by far was the hardest for me as I had less time and a 
+lot of challenging code to write as the feature which I was working on was novel. We then had a meeting for the retrospective B report and also discussed 
+our progress. 
+
+Week 10
+
+We had the most amount of meetings this week. As my sprint 3 was nearly complete, I wanted to test with the frontend first as I had some conceptual doubts.
+So me and Harsh worked on the group booking together and perfected it. After this, we met as a whole group and discussed the sprint 3 first, fixed bugs and
+prepared for the final demo. While preparing we again found some bugs but as everybody was present, we fixed them almost immediately and continued. We then 
+went to the tutorial and gave our final demo which went smoothly as we had perfected all of our features with no bugs. After that we had another meeting 
+and worked on our code style and final report which almost took a whole day of continous work to finalize. I also then finished my peer assessment and
+finalized the diary.

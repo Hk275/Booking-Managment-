@@ -1,0 +1,66 @@
+Working Diaries:
+
+Week1:
+1. Attending the first lab and joined cookies group.
+2. Decided to do Project7: Event Management System and voted our Scrum Master.
+3. Scrum Master created our Jira Group and invited all of us.
+4. Scrum Master dropped this course!
+5. Hold the first online meeting on week1 Sunday, dividing the essential demand of this project into 4 part and started working about their User Stories.
+
+Week2:
+1. Hold the second online meeting on week2 Wednesday night, having a brainstorm about all User Stories.
+2. Attending the second lab, new member has joined us and created a new Jira group.
+3. Doing a simple brainstorm about UI design, divided it into 4 part and started working on it.
+
+Week3：
+1. Hold the third in person meeting on week3 Monday afternoon, did some design for UI diagram.
+2. Attending the third lab，adding some new novel functionality and asking some question about software architecture diagram.
+3. Complete the flowchart and software architecture diagram.
+4. Add the screenshots of UI diagram to the Proposal Document and change the layout. 
+
+Week4：
+1. Hold the fourth in person meeting on Monday evening, discussed the data type and the interface.
+2. Attending the fourth lab, talk about the sprint1's work division.
+3. Start coding, finished the whole structure for sprint1's frontend page requirements(without the connection between the frontend and backend):
+  Home page: having a 6-event-List but without the event-details-page
+  Login page and Register page；
+  Avatar button with account button and logout button, did not do the jump for logout because backend was not finished.
+  Account page:
+    booking event button, past events button, future events button, past bookings button, current orders button and friends button with empty page.
+    Account detail page，wallet button, create new events and edit event page with the frontend page for sprint1.
+
+Week5:
+1. Hold the fifth meeting in person on Wednesday evening to merge all work for Sprint1.
+2. Attending the fifth lab and the Progressive Demo A.
+3. Sprint1 all finished, have a few rest this week.
+
+Week6(Flexible Week):
+1. Hold the sixth meeting in person on Monday, do the job division for Sprint2.
+2. Assign the user stories which can be worked without backend or not, and get my part for booking page, event detail page, current order page, past booking page, past event page and future event page's UI design.
+3. Finish the work for the UI design, figure out the Seat Map Problem.
+4. Attending the seventh meeting in person on Sunday.
+
+Week7:
+1. Hold the meeting in person for test and fix bug together.
+2. Communicate with the backend member of booking, do some changes about this User interface design.
+3. Do some prepare for DemoB.
+
+Week8:
+1. Attend meetings on Monday fix bugs and do tests together.
+2. Try to fix the bug in booking page, find cannot complete the Currency part without backend.
+3. Communicate with Harsh and Steven, change the job division a little.
+4. Attend the lab, show the demoB to Tam.
+5. Meeting for Sprint3 job divison, get the job for reward points system and Virtual Machine Installation Guide.
+
+Week9:
+1. Completed my part for Sprint3, started to install the environment on Virtual Machine Lubuntu.
+2. Finish the guide of Lubuntu，test in Windows laptop.
+3. Faced some problem with Lubuntu， try to fix that.
+4. Attend the meeting to finish the Retro B.
+
+Week10:
+1. Test our project on Mac's Lubuntu, record more questiones and search how to fix that.
+2. Prepare for the Final demo show, practiced the process of presentation.
+3. Attend the lab and complete the final demo presentation.
+4. Did some improvement for this project, completed the peers assessment and report.
+5. All work finish, good team, well down.
